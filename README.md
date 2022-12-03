@@ -4,7 +4,7 @@ This repository contains all projects that I made throught my one-year training 
 
 Each project folder contains a lab notebook and a small paper that I wrote based on the results.
 
-Here is the list of the projects:
+Here is the list of all the projects:
 
 - What causes antibiotic resistance? Alignment to reference, variant calling.
     
