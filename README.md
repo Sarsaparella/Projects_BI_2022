@@ -1,10 +1,10 @@
 # Bioinformatics Institute educational projects
 
-This repository contains all projects that I made over the course of my one-year training program at Bioinformatics Institute.
+This repository contains all projects that I made throught my one-year training program at Bioinformatics Institute (Sept 2022 - June 2023).
 
-Each project folder contains lab notebook and small paper that I wrote based on the results.
+Each project folder contains a lab notebook and a small paper that I wrote based on the results.
 
-Here are the list of the projects:
+Here is the list of all projects:
 
 - What causes antibiotic resistance? Alignment to reference, variant calling.
     
