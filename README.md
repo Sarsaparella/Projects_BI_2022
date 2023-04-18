@@ -41,5 +41,4 @@ Here is the list of all projects:
     Tools: QIIME2, samtools, BWA-MEM, BEDtools
 
 
-Be ware, all projects were made in tight deadlines and meant to be purely educational, so some mistakes are very much possible 
-‿︵‿︵‿︵‿(个_个)︵‿︵‿︵‿︵
+Be ware, all projects were made in tight deadlines and meant to be purely educational, so some mistakes are very much possible	(っ˘̩╭╮˘̩)っ
